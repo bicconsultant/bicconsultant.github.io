@@ -48,6 +48,9 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.green{
+		color: #49bf9d ;
+	}
 /* Box Model */
 
 	*, *:before, *:after {
