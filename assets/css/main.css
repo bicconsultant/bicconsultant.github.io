@@ -3109,3 +3109,7 @@
 			}
 
 	}
+
+.customtable tbody tr  {
+	background-color: #ffffff !important;
+}
